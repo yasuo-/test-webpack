@@ -44,6 +44,7 @@
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
 
+	__webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"./dist/css/style.css\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
 	document.write(__webpack_require__(1));
 
 
